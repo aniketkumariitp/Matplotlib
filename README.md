@@ -34,8 +34,6 @@ This project contains hands-on exercises used to learn and apply data visualizat
 | Jupyter Notebook | Practice workspace |
 
 ---
-
-## 🚀 How to Use
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/matplotlib.git
+- 🌐 GitHub: [aniketkumariitp](https://github.com/aniketkumariitp)  
+- 💼 LinkedIn: [Aniket Kumar](https://www.linkedin.com/in/aniket-kumar-995424324/)  
+- 📧 Email: aniketkumariitp@gmail.com  
